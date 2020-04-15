@@ -1,3 +1,3 @@
 this is newly added b.txt fieck thee
 to check te change of config using git config
-
+ecking again config option second time:wq:::
